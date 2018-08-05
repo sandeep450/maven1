@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>s-1</finalName>
+    <finalName>soma-1</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
